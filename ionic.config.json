@@ -1,0 +1,7 @@
+{
+  "name": "Pages Store Front",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
